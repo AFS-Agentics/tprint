@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/tprint/__init__.py
+src/tprint/__main__.py
+src/tprint/cli.py
+src/tprint/formatters.py
+src/tprint/parsers.py
+src/tprint.egg-info/PKG-INFO
+src/tprint.egg-info/SOURCES.txt
+src/tprint.egg-info/dependency_links.txt
+src/tprint.egg-info/entry_points.txt
+src/tprint.egg-info/requires.txt
+src/tprint.egg-info/top_level.txt
