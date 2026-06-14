@@ -1,3 +1,5 @@
+![Cover](cover.png)
+
 # tprint — Terminal Table Printer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
